@@ -1,1 +1,1 @@
-M06 Word Guessing Game
+**M06 Word Guessing Game**
